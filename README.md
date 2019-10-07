@@ -7,7 +7,7 @@ You're given two numbers, ​N x M ​ and you're expected to generate 2D array 
 5 x 5 
 
 * Expected:  
-|----|----|----|----|----|  
+
 | 1  | 2  | 5  | 10 | 17 |  
 |----|----|----|----|----|  
 | 4  | 3  | 6  | 11 | 18 |  
