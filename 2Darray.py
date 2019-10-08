@@ -11,7 +11,7 @@ while N <= 0 or M <= 0:
     N = int(N)
     M = int(M)
     
-t = [[0 for x in range(N)] for y in range(M)] 
+t = [[0 for x in range(M)] for y in range(N)] 
 for i in range(0,N):
     for j in range(0,M):
         if (j>=i):
